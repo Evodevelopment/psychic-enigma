@@ -2,4 +2,4 @@
 First project
 
 
-I will edit this file till the project is monstrosity endeavour.
+I will edit the project untill it is monstrosity endeavour.
